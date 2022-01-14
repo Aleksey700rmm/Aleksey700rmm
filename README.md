@@ -1,5 +1,5 @@
 <div align="center">
   <br /><br /><img
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"
+    src="https://data.whicdn.com/images/218598175/original.gif"
   /><br /><br />
 </div>
