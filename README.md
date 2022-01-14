@@ -1,5 +1,5 @@
 <div align="center">
   <br /><br /><img
-    src="https://psv4.userapi.com/c812523/u165369939/docs/c6195fd1616a/image_2.gif"
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"
   /><br /><br />
 </div>
